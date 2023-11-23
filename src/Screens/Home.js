@@ -8,7 +8,6 @@ const Home=()=>{
     pickupCords:{
       latitude:12.9716,
       longitude:77.5946,
-      
     }, 
     dropOffCords:{
       latitude:12.2958,
